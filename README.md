@@ -14,10 +14,20 @@ npm run dev
 
 What technologies are used in this project?
 This project is built with:
-Vite, TypeScript, React, shadcn-ui and Tailwind CSS
+
+Vite
+TypeScript
+React
+shadcn-ui 
+and Tailwind CSS
+
 How can I deploy this project?
 You can deploy this project using any modern hosting service, such as:
-Vercel Netlify GitHub Pages
+
+Vercel
+Netlify 
+GitHub Pages
+
 Deployment steps depend on the platform, but usually include connecting your GitHub repo and enabling automatic deployments.
 Can I connect a custom domain?
 Yes ✅
